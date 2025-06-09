@@ -6,4 +6,5 @@ Quantum Key Distribution (QKD) using the BB84 Protocol: A widely used protocol t
 Quantum Simulation using Qiskit: Simulates quantum bits (qubits) to demonstrate how quantum states are transmitted and measured.
 Real-time Key Exchange: Implementation of secure key sharing that can be integrated into communication systems.
 Error Detection: Eavesdropping detection based on the disturbance of quantum states.
-# Google Colab Notebook : https://colab.research.google.com/drive/12lF1vZL2RcCeYhbJtWGEjjJWUZDdLo0H?usp=sharing
+
+Google Colab Notebook :https://colab.research.google.com/drive/12lF1vZL2RcCeYhbJtWGEjjJWUZDdLo0H?usp=sharing
